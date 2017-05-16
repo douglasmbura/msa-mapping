@@ -1,0 +1,126 @@
+id,zoom,lat,lon,chapter,description,source-credit,image,source-link
+1,18,-4.016409019,39.68189293,Tiba Medical Centre,Community assistance is one key strenght for this Health center.,other,img/1.jpg,image_four
+2,18,-4.039375857,39.69233564,Bency chemist,Has easy access by road.,retail_chemist,img/2.jpg,image_four
+3,18,-4.071159555,39.63834703,Midodoni,Easily accessible by road.,retail_chemist,img/3.jpg,image_four
+4,18,-4.002018891,39.70083659,Tumaini children home outpatient clinic,Gets funding from the donors and there is availabity of essential health equipments.,private_clinic,img/4.jpg,image_four
+5,18,-4.010326017,39.69442957,Mtopanga chemist,Self funded. ,retail_chemist,img/5.jpg,image_four
+6,18,-4.086155953,39.66323376,MAJENGO MAPYA CHEMIST,Easy access by road,retail_chemist,img/6.jpg,image_four
+7,18,-4.097089998,39.64611786,Bru-C Chemist,"Established through loan and 
+Personal savings",retail_chemist,img/7.jpg,image_four
+8,18,-3.964734923,39.72058222,Majaoni Chemist,Serves a large population of peole (plenty of customers).,retail_chemist,img/8.jpg,image_four
+9,18,-3.964061446,39.71739767,Majaoni Health Centre,Offers lower prices and customer friendly services,private_clinic,img/9.jpg,image_four
+10,18,-4.071545221,39.63833932,Mwembe Ngoma,"Quality and SwiftService Delivery, 24 Hour Clinic and Fully Stocked Drugs",private_clinic,img/10.jpg,image_four
+11,18,-4.002260647,39.70360078,Kiminya chemist,Its situated in busy street opposite vescon estate.,retail_chemist,img/16.jpg,image_four
+12,18,-4.062581432,39.66192676,Coast miami,Established through persoanl savings,other,img/11.jpg,image_four
+13,18,-4.038757506,39.60554211,Daoneq pharmacy,"Easily accessible, serves a large market (population)",retail_chemist,img/13.jpg,image_four
+14,18,-4.030409805,39.62259997,Lorvic Dermecare Medical Clinic,"Ability to satisfy patients needs.
+ And has easy access by the road.",private_clinic,img/14.jpg,image_four
+15,18,-4.085123731,39.65430439,Zaro Medical Clinic,"Privately Owned, Partners with the Local County Government,
+Accessible by road",private_clinic,img/12.jpg,image_four
+16,18,-4.038687365,39.60576957,Perazim pharmaceutical,Easily accesible and serves a market.,retail_chemist,img/15.jpg,image_four
+17,18,-4.011465866,39.69418092,Jordan medical centre,Self enterprise,private_clinic,img/17.jpg,image_four
+18,18,-4.000872515,39.63169126,Ganahola Chemist,"Good Stocking, No Chemist congestion",retail_chemist,img/18.jpg,image_four
+19,18,-4.005830371,39.57638698,Miritini CDF dispensary,No funding other than government,dispensary,img/19.jpg,image_four
+20,18,-4.056879335,39.66983591,Mwembe tayari health centre,Has a huge potential to serve the large population has limited facilities and equipement.,healthcentre,img/20.jpg,image_four
+21,18,-4.090480431,39.64948858,Joan Chemist,Easily accessible by road.,retail_chemist,img/11.jpg,image_four
+22,18,-4.042458027,39.68627027,Community health,Has a good relation with the community. Enjoys community support. ,private_clinic,img/12.jpg,image_four
+23,18,-4.089356291,39.64840481,Soweto Chemist,Near to road and has good customer relations,retail_chemist,img/13.jpg,image_four
+24,18,-4.000337295,39.63133856,Chemist,"Variety of goods, No competition",retail_chemist,img/14.jpg,image_four
+25,18,-4.024689446,39.61462799,Medina medical clinic,"Friendly services,accessible,affordable",private_clinic,img/15.jpg,image_four
+26,18,-4.097248605,39.64588638,Horesha Chemist,"Started as personal enterprise with loan funding
+. Strategic location",retail_chemist,img/7.jpg,image_four
+27,18,-3.966942428,39.72198384,Al hilal Medical Clinic,Sole Provider of delivery and maternity care in the area,private_clinic,img/8.jpg,image_four
+28,18,-4.02627968,39.69397643,Kisauni Health Center,"Access to Tuberculosis drugs
+Antenatal care facility
+An active outpatient department
+Location makes it accessible.",healthcentre,img/9.jpg,image_four
+29,18,-3.998655672,39.60127517,Mikanjuni family health clinic,Easy access by road,private_clinic,img/10.jpg,image_four
+30,18,-4.028265983,39.62554563,Airmed Phamacitcals,Has easy access by the road,retail_chemist,img/1.jpg,image_four
+31,18,-3.998655672,39.60127517,Mikanjuni family health clinic,Easy access by road,private_clinic,img/2.jpg,image_four
+32,18,-3.967389877,39.72196082,Joy chemist shop,Good customer relation and good management,retail_chemist,img/3.jpg,image_four
+33,18,-3.998904736,39.63170655,Jabali Chemist,"Experience,No Competition",retail_chemist,img/4.jpg,image_four
+34,18,-4.042054818,39.69473157,Mwamba chemist,Giving good treatment to patient.,retail_chemist,img/5.jpg,image_four
+35,18,-4.027382517,39.61243689,Jope pharmacy,"Open daily and long hours,availabilty of drugs,hardworking staff",retail_chemist,img/6.jpg,image_four
+36,18,-4.0116696,39.68421501,Blessed pharmacy,Self enterprise,retail_chemist,img/7.jpg,image_four
+37,18,-4.000512845,39.70033102,Rena chemist,"Serves an area which is densely populated, situated along the main road.",retail_chemist,img/8.jpg,image_four
+38,18,-4.110376391,39.63861704,Carlifonia Medical Clinic,Access by road.,private_clinic,img/9.jpg,image_four
+39,18,-4.040348014,39.69511933,Shalom medical clinic,Helping sorrounding community.,private_clinic,img/10.jpg,image_four
+40,18,-4.030320024,39.62143957,Al-bir Medical Centre,Has easy access by the road,private_clinic,img/11.jpg,image_four
+41,18,-3.966716396,39.71362726,Lifog Medical Centre,"Cheap healthcare, well built facility, good service offered",other,img/12.jpg,image_four
+42,18,-4.058487715,39.67232672,Logichem pharmacy,Self enterprise with no outside fundings at all. ,retail_chemist,img/13.jpg,image_four
+43,18,-4.039733143,39.69300171,New maweni chemist,personal enterprise,retail_chemist,img/14.jpg,image_four
+44,18,-4.039301811,39.69179806,None,Easy access by road.,retail_chemist,img/15.jpg,image_four
+45,18,-4.07545354,39.63758841,Glory Chemist,"Road Side Proxomity, Affordable Rent and Quality services",retail_chemist,img/16.jpg,image_four
+46,18,-4.024407193,39.61596239,Cyprus pharmaceuticals,"Availability of drugs,efficacy and efficiency",retail_chemist,img/17.jpg,image_four
+47,18,-4.038945283,39.69122047,St Paul clinic,Easy access by road,private_clinic,img/18.jpg,image_four
+48,18,-4.001493418,39.63004907,Esma Chemist,"Easy road access,No competition",retail_chemist,img/19.jpg,image_four
+49,18,-4.104358009,39.64163956,Ujamaa Chemist Likoni.,It is a private enterprise.,retail_chemist,img/20.jpg,image_four
+50,18,-4.075467306,39.63730819,Mgerienge Medical Clinic,Clean Enviroment and Quality Service Delivery,private_clinic,img/1.jpg,image_four
+51,18,-4.003484778,39.62999126,Terichem Chemist,"Easy road accessibility,Fair pricing",retail_chemist,img/2.jpg,image_four
+52,18,-4.028028696,39.68614889,Mlaleo cdf Health Center,"Accesibility 
+Staff cooperation
+District headquarter support.",healthcentre,img/3.jpg,image_four
+53,18,-4.075419796,39.63777522,National Youth Service Bamako,Close contact with the Community unlike the Parent Institutions.,dispensary,img/4.jpg,image_four
+54,18,-4.073149061,39.63231589,National Youth Service Dispensary,"Provision of curative and preventive help, Community Outreach and Follow up",dispensary,img/5.jpg,image_four
+55,18,-4.027868699,39.68638543,Mlaleo pharmaceticals,"Accessibility
+Located near a health center.
+Adequately stocked",retail_chemist,img/6.jpg,image_four
+56,18,-3.967490126,39.70358484,Kashani Medical Clinic,"Trusting community, good management and public relation skills of the owner",private_clinic,img/7.jpg,image_four
+57,18,-4.03814684,39.68001462,Government chemist,Full support from the goverment,government_chemist,img/8.jpg,image_four
+58,18,-4.003534922,39.62962116,Psalmschem Chemist,"Easy road access,Good pricing,Good Customer service",retail_chemist,img/9.jpg,image_four
+59,18,-4.035718954,39.62504618,Kipevu Medical Clinic,"1. Low charges
+2. Easy access from the main road
+3. 24hour services",private_clinic,img/10.jpg,image_four
+60,18,-3.935688861,39.65016486,Mwakirunge despensary,MOH. action aid . USAID . Education,dispensary,img/11.jpg,image_four
+61,18,-4.039813502,39.69349359,Jamii chemist,personal enterprise,retail_chemist,img/12.jpg,image_four
+62,18,-4.041007596,39.65796419,Station Side health care,"Easy access to road,support by individual.",private_clinic,img/13.jpg,image_four
+63,18,-4.028158414,39.61265684,Namleck medical center,"Huge market,well stocked,competent staff",private_clinic,img/14.jpg,image_four
+64,18,-4.028504709,39.61264677,New magongo pharmacy,"Customer service,quality medication,affordability",retail_chemist,img/15.jpg,image_four
+65,18,-4.056639649,39.67312551,Macca medical clinic and laboratory services,Private,private_clinic,img/16.jpg,image_four
+66,18,-3.959332454,39.67065252,Marimani cdf despensary,Government fundings,dispensary,img/17.jpg,image_four
+67,18,-4.036201485,39.62416071,Coastmed chemist,"1. Easily accessible by road
+2. Good customer relationships
+3. Trust from clients",retail_chemist,img/18.jpg,image_four
+68,18,-4.003378527,39.6294208,Tudor Health Care(Mikindani Branch),"Many number of branches, Patients satisfaction,Qualified practitioners",private_clinic,img/19.jpg,image_four
+69,18,-4.06005721,39.67559678,All am chemist,Well trained pharmacists,retail_chemist,img/1.jpg,image_four
+70,18,-4.00305724,39.68588661,Vikwatani pharmacy,private enterprise,retail_chemist,img/2.jpg,image_four
+71,18,-4.005988038,39.57670477,Aliobil chemist,Mostly used by the locals,retail_chemist,img/3.jpg,image_four
+72,18,-4.038868809,39.69183096,New Pwani clinic,Has easy access by road,private_clinic,img/4.jpg,image_four
+73,18,-4.06005721,39.67559678,Ahlam chemist,Well trained pharmacists,retail_chemist,img/5.jpg,image_four
+74,18,-4.028221599,39.68693233,Sayyida Fatma Hospital,"Low rate services
+Accebility
+Friendly",hospital,img/6.jpg,image_four
+75,18,-4.036259156,39.6237156,Baikal Chemist,"Vast pharmaceutical knowledge of employee
+Has adequate stocking of drugs",retail_chemist,img/7.jpg,image_four
+76,18,-4.098038871,39.64536149,Sau Health Services,"Good catchment population
+Strategic location Likoni-Ukunda highway
+Fare charges",private_clinic,img/8.jpg,image_four
+77,18,-4.084414891,39.6614344,Likoni Chemist,Easy acess by road,retail_chemist,img/9.jpg,image_four
+78,18,-4.011017354,39.69300262,Heritage chemist,Self,retail_chemist,img/10.jpg,image_four
+79,18,-4.036588012,39.62315008,Kenoc Pharmacy,Easily accessible by road,retail_chemist,img/11.jpg,image_four
+80,18,-4.0581526,39.67236186,Axis nursing home,NGOs fundings eg. Amua and tupange.,nursing_home,img/12.jpg,image_four
+81,18,-4.075038238,39.63779836,Distance Chemist,Close Proximity to the Main Road and Adequately Stocked at all Times,retail_chemist,img/13.jpg,image_four
+82,18,-4.024464481,39.62483865,Magongo Health Centre,TUBORCLOSIS and HIV/AIDS treatment from NGO,other,img/14.jpg,image_four
+83,18,-4.058824922,39.67656909,Ansar Medical Clinic,Easy access by road,private_clinic,img/15.jpg,image_four
+84,18,-4.002157247,39.70733747,Zimmerlin Medical Clinic,"Latest technology in testing e.g use of rapid to diagnoze malaria,stocking of branded and quality generic medicines.",private_clinic,img/16.jpg,image_four
+85,18,-3.997951551,39.70240009,Darajani Medical Clinic,"Quality management, hygiene upto standards, ethicaly managed",private_clinic,img/17.jpg,image_four
+86,18,-4.033568282,39.67921742,Digore Medical clinic,Easy access to road,private_clinic,img/18.jpg,image_four
+87,18,-4.064233088,39.6662812,Ganjoni Health center,"1.community
+2.research unit center",healthcentre,img/19.jpg,image_four
+88,18,-4.035257384,39.62080678,Kismat Chemist,"Proximity to main road, 
+Nearness to a clinic",retail_chemist,img/7.jpg,image_four
+89,18,-4.022316517,39.62772862,Osur Pharmacy,Customer care,other,img/8.jpg,image_four
+90,18,-4.061348152,39.67470694,Blue Pyramid,"Secure
+Quality Commodities 
+Good road network",retail_chemist,img/9.jpg,image_four
+91,18,-4.060382595,39.67706533,Muzdalifa Pharmacy,Access by road,retail_chemist,img/10.jpg,image_four
+92,18,-4.087363963,39.66589327,Paradise Medical Centre,Easy access by road,private_clinic,img/11.jpg,image_four
+93,18,-4.061078343,39.67376735,Makadara Chemist,"Price
+ fully stocked variety of medines",retail_chemist,img/12.jpg,image_four
+94,18,-4.026236474,39.67730198,Nyali West Chemist,Easily accessed by road,retail_chemist,img/13.jpg,image_four
+95,18,-4.027750236,39.68619581,Edi pharmacy,Centrally located.,retail_chemist,img/1.jpg,image_four
+96,18,-4.002137144,39.63089,Light ways Chemist,"Easy road access,Qualified practitioners",retail_chemist,img/2.jpg,image_four
+97,18,-4.0565238,39.67318978,Coast view chemist limited.,None,retail_chemist,img/3.jpg,image_four
+98,18,-4.0267944,39.68651287,Mlaleo medical pharmacy,Sole propriator ship needs partnership and but has pour acces road,retail_chemist,img/4.jpg,image_four
+99,18,-4.028274154,39.68593108,Afya Cure Pharmacy,"Owner is a pharmaceutical technologist by profession.
+Conviniently located",retail_chemist,img/6.jpg,image_four
